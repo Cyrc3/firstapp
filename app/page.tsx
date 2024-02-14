@@ -10,6 +10,12 @@ export default function Home() {
           <a href="#">About Us</a>
         </nav>
       </div>
+      <div>
+        <nav>
+          <a href="#">Hi, i'm Emilio</a>
+        
+        </nav>
+      </div>
     </main>
   );
 }
