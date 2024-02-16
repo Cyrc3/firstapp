@@ -11,5 +11,14 @@
     margin-bottom: 20px;
 }
 .navbar a{
-    cursor:pointer
+    cursor:pointer;
+    justify-content: center;
+
+}
+
+.body{
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+
 }
