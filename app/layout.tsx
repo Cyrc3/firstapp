@@ -18,7 +18,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <style>{`.${inter.className} { font-family: ${inter.fontFamily}; }`}</style>
+        Heiader
       </head>
       <body>
         {children}
