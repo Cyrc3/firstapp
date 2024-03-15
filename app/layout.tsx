@@ -17,7 +17,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <style>{`.${inter.className} { ${inter.cssText} }`}</style>
+        
         {/* Other head elements */}
       </head>
       <body>
